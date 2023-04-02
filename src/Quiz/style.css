@@ -1,0 +1,31 @@
+.start-button {
+  background-color: #ffd100;
+  font-size: 2em;
+  border: none;
+  padding: 2% 8%;
+}
+
+.submit-button {
+  background-color: #ffd100;
+  font-size: 2em;
+  border: none;
+  padding: 2%;
+}
+
+.submit-button:hover {
+  background-color: #ffd000cc;
+}
+
+.reset-button {
+  display: inline-block;
+  border: none;
+  padding: 2%;
+  background-color: #bb1919;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.reset-button:hover {
+  background-color: #ff3700;
+}

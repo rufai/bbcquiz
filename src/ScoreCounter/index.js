@@ -10,8 +10,8 @@ const ScoreCounter = () => {
   return (
     <div>
       <p>Score: {score} / 32</p>
-      <p>Correct answers: {score}</p>
-      <button onClick={handleCorrectAnswer}>Correct</button>
+      {/* <p>Correct answers: {score}</p> */}
+      {/* <button onClick={handleCorrectAnswer}>Correct</button> */}
     </div>
   );
 };

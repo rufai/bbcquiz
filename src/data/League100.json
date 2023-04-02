@@ -1,0 +1,183 @@
+[
+  {
+    "goals": "260",
+    "clubs": "Southampton, Blackburn, Newcastle",
+    "player": "Alan Shearer"
+  },
+  {
+    "goals": "208",
+    "clubs": "Everton, Manchester United",
+    "player": "Wayne Rooney"
+  },
+  {
+    "goals": "187",
+    "clubs": "Newcastle, Manchester United, Blackburn, Fulham, Manchester City, Portsmouth, Sunderland",
+    "player": "Andrew Cole"
+  },
+  {
+    "goals": "184",
+    "clubs": "Manchester City",
+    "player": "Sergio Aguero"
+  },
+  {
+    "goals": "177",
+    "clubs": "West Ham, Chelsea, Manchester City",
+    "player": "Frank Lampard"
+  },
+  {
+    "goals": "175",
+    "clubs": "Arsenal",
+    "player": "Thierry Henry"
+  },
+  {
+    "goals": "166",
+    "clubs": "Tottenham, Norwich",
+    "player": "Harry Kane"
+  },
+  {
+    "goals": "163",
+    "clubs": "Liverpool, Leeds, Man City, Blackburn",
+    "player": "Robbie Fowler"
+  },
+  {
+    "goals": "162",
+    "clubs": "Charlton, West Ham, Tottenham, Portsmouth, Sunderland, Bournemouth",
+    "player": "Jermain Defoe"
+  },
+  {
+    "goals": "150",
+    "clubs": "Liverpool, Newcastle, Manchester United, Stoke",
+    "player": "Michael Owen"
+  },
+  {
+    "goals": "149",
+    "clubs": "QPR, Newcastle, Tottenham, West Ham, Leicester, Bolton",
+    "player": "Les Ferdinand"
+  },
+  {
+    "goals": "146",
+    "clubs": "Nottingham Forest, Tottenham, Manchester United, Portsmouth, West Ham",
+    "player": "Teddy Sheringham"
+  },
+  {
+    "goals": "144",
+    "clubs": "Arsenal, Manchester United",
+    "player": "Robin van Persie"
+  },
+  {
+    "goals": "127",
+    "clubs": "Leeds, Chelsea, Middlesbrough, Charlton",
+    "player": "Jimmy Floyd Hasselbaink"
+  },
+  {
+    "goals": "126",
+    "clubs": "Coventry, Leeds, Tottenham, Liverpool, West Ham, Aston Villa",
+    "player": "Robbie Keane"
+  },
+  {
+    "goals": "125",
+    "clubs": "Arsenal, Liverpool, Manchester City, Bolton, Chelsea, West Brom",
+    "player": "Nicolas Anelka"
+  },
+  {
+    "goals": "123",
+    "clubs": "Aston Villa, Manchester United, Blackburn, Birmingham, Sunderland",
+    "player": "Dwight Yorke"
+  },
+  {
+    "goals": "120",
+    "clubs": "Liverpool",
+    "player": "Steven Gerrard"
+  },
+  {
+    "goals": "120",
+    "clubs": "Leicester",
+    "player": "Jamie Vardy"
+  },
+  {
+    "goals": "116",
+    "clubs": "Chelsea, West Brom, Everton, Manchester United",
+    "player": "Romelu Lukaku"
+  },
+  {
+    "goals": "113",
+    "clubs": "Arsenal, West Ham",
+    "player": "Ian Wright"
+  },
+  {
+    "name": "Dion Dublin",
+    "goals": 111,
+    "clubs": ["Manchester United", "Coventry City", "Aston Villa"]
+  },
+  {
+    "name": "Emile Heskey",
+    "goals": 110,
+    "clubs": [
+      "Leicester City",
+      "Liverpool",
+      "Birmingham City",
+      "Wigan Athletic",
+      "Aston Villa"
+    ]
+  },
+  {
+    "name": "Ryan Giggs",
+    "goals": 109,
+    "clubs": ["Manchester United"]
+  },
+  {
+    "name": "Peter Crouch",
+    "goals": 108,
+    "clubs": [
+      "Tottenham Hotspur",
+      "Aston Villa",
+      "Southampton",
+      "Liverpool",
+      "Portsmouth",
+      "Stoke City",
+      "Burnley"
+    ]
+  },
+  {
+    "name": "Paul Scholes",
+    "goals": 107,
+    "clubs": ["Manchester United"]
+  },
+  {
+    "name": "Darren Bent",
+    "goals": 106,
+    "clubs": [
+      "Ipswich Town",
+      "Charlton Athletic",
+      "Tottenham Hotspur",
+      "Sunderland",
+      "Aston Villa",
+      "Fulham"
+    ]
+  },
+  {
+    "name": "Didier Drogba",
+    "goals": 104,
+    "clubs": ["Chelsea"]
+  },
+  {
+    "name": "Matthew Le Tissier",
+    "goals": 100,
+    "clubs": ["Southampton"]
+  },
+  {
+    "name": "Mohamed Salah",
+    "goals": 119,
+    "clubs": ["Chelsea", "Liverpool"]
+  },
+  {
+    "name": "Sadio Mane",
+    "goals": 109,
+    "clubs": ["Southampton", "Liverpool"]
+  },
+  {
+    "name": "Raheem Sterling",
+    "goals": 113,
+    "clubs": ["Liverpool", "Manchester City", "Chelsea"]
+  }
+]

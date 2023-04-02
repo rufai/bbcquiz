@@ -1,9 +1,13 @@
 .flat-black-button {
   background-color: black;
   color: white;
-  border: none;
   padding: 10px;
   margin: 10px;
-  border-radius: 5px;
   cursor: pointer;
+  border: none;
+}
+
+.flat-black-button-content {
+  padding: 2%;
+  border: 1px solid black;
 }

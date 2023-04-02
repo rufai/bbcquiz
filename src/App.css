@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  display: grid;
+  justify-content: space-around;
+  margin: 0 20px;
 }
 
 .App-logo {
@@ -22,6 +25,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.place_edges {
+  display: flex;
+  justify-content: space-between;
 }
 
 .App-link {
